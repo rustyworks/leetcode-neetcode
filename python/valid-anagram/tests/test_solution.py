@@ -1,4 +1,4 @@
-from valid_anagram_2.solution import Solution
+from valid_anagram.solution import Solution
 
 
 def return_true_if_anagram_valid():

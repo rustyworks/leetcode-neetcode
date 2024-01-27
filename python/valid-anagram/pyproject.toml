@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "contains-duplicate-2"
+name = "valid-anagram"
 version = "0.1.0"
 description = ""
 authors = ["Tristanto <tristanto.kurniawan@gmail.com>"]

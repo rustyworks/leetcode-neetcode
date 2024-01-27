@@ -1,4 +1,4 @@
-from contains_duplicate_2.solution import Solution
+from contains_duplicate.solution import Solution
 
 def return_true_if_contains_duplicate():
     nums_1 = [1, 2, 3, 1]
