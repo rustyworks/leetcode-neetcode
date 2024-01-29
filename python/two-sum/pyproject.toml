@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "two-sum"
+version = "0.1.0"
+description = ""
+authors = ["Tristanto <tristanto.kurniawan@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+
+[tool.poetry.scripts]
+test_all = "tests.test_solution:test_all"
